@@ -39,12 +39,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamins1995&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamins1995&show_icons=true&theme=tokyonight&hide=stars,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshriyoktan&show_icons=true&theme=tokyonight&hide=stars,prs)
 <br><br/>
 
 ## 💬 Connect with me
 
-<a href="https://www.linkedin.com/in/oshri-yoktan" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/oshri-yoktan" height="35" width="45" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/oshri-yoktan" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/oshri-yoktan" height="35" width="45" /></a>
+<a href="https://oshriyoktan.github.io/Portfolio/#/" target="blank"><img align="left" src="https://www.vecteezy.com/free-vector/portfolio-icon" alt="https://www.vecteezy.com/free-vector/portfolio-icon" height="35" width="45" /></a>
+</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
